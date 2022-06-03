@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+.title {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    color: blanchedalmond;
+    font-size: 4em;
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#map {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 660px;
+    height: 560px;
+    border: solid black;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+}
+
+.map-overlay{
+  position: absolute;
+  left: 0;
+  padding: 10px;
+}
