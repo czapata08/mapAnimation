@@ -1,5 +1,5 @@
 <h1> Public Bus Tracking</h1>
-<h4> This map displays the live location of a bus in the city of Cambridge, MA. This repo works with the mapbox library to display the map and bus marker, the marker is updated every 20 seconds by pulling data from the mbta website and updating the marker coordinates. This code with an asynchrnous structure that allows the application to work on multiple functions and to programatically execute a function after a set of functions are completed.  </h4>
+<h4> This map displays the live location of a bus in the city of Cambridge, MA. This repo works with the mapbox library to display the map and bus marker, the marker is updated every 20 seconds by pulling data from the mbta website and updating the marker coordinates. This code is design to work with an asynchrnous structure that allows the application to work on multiple functions and to programatically execute a function after a set of functions are completed.  </h4>
 
 <h2>Project Goals</h2>
 <ol> 
@@ -9,11 +9,9 @@
 </ol>
 
 <h2> Key Learnings </h2>
-<ol> 
    <li> Use a the mapbox external library to utilize and add functionality to the application</li>
    <li> JavaScript asynchronous structure to map out the logic and execution of the code</li>
-   <li> Use Javascript timers to update data from outside source</li>
-</ol>
+   <li> Use Javascript timers to fetch data from outside source and update coordinates on marker</li>
 
 <h2>Languages </h2>
 <li>JavaScript</li>
