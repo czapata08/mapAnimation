@@ -17,11 +17,11 @@
 <li>CSS</li>
 <li>HTML</li>
 
-<h2> Libraries </h2>
+<h2>Libraries</h2>
 <li> MapBox </li>
 
 <h2>Data Format<h2>
-<li> JSON </li>
+<li>JSON</li>
 
 <h2> Author </h2> 
 <h3> Carlos Zapata </h3>
